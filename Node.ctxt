@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ Write\ a\ description\ of\ class\ Node\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n\ world\ index
+comment1.target=Node(Note,\ boolean,\ int)
+numComments=2

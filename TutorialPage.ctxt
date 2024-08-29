@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TutorialPage
+comment0.text=\n\ Write\ a\ description\ of\ class\ TutorialPage\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=hWorld
+comment1.target=TutorialPage(HomePage)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TutorialPage.\n\ \n
+numComments=2

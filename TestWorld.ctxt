@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TestWorld
+comment1.params=world\ sWorld
+comment1.target=TestWorld(boolean,\ StartPage)
+comment2.params=world
+comment2.target=int\ setXStaff(boolean)
+comment3.params=world
+comment3.target=int\ setYStaff(boolean)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ finalScore()
+comment6.params=
+comment6.target=Queue\ getQueue()
+comment7.params=notes
+comment7.target=void\ addNote(Queue)
+numComments=8

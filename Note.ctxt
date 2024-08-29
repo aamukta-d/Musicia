@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Note
+comment0.text=\n\ Write\ a\ description\ of\ class\ note\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=inOffset
+comment1.target=Note(int)
+comment2.params=setToOffset
+comment2.target=void\ setOffset(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=correct
+comment4.target=void\ score(boolean)
+comment5.params=x
+comment5.target=int\ getOffset(Note)
+numComments=6

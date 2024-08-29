@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Queue
+comment1.params=offset\ notes\ world\ index
+comment1.target=Queue\ enqueue(int,\ Queue,\ boolean,\ int)
+comment2.params=notes
+comment2.target=void\ dequeue(Queue)
+comment3.params=notes
+comment3.target=void\ remove(Queue)
+comment4.params=notes
+comment4.target=boolean\ isEmpty(Queue)
+numComments=5
